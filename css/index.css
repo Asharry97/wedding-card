@@ -1,0 +1,17 @@
+/* Since Navbar is Fixed and Z-Index is added Other Contents/Componenets will be hidden  */
+/* Copied From BootStrap: https://v5.getbootstrap.com/docs/5.0/examples/sticky-footer/*/
+/* Copied From BootStrap: https://v5.getbootstrap.com/docs/5.0/examples/sticky-footer-navbar/ */
+
+/*
+main {
+    padding-top: 80px; /* Header(NavBar) * /
+    padding-bottom: 85px; /* Footer * /
+}
+*/
+.border-none {
+    border: none;
+}
+
+.light-grey {
+    background-color: #f9f9f9!important;
+}
